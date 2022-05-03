@@ -3,7 +3,7 @@
 [![Build Status - GitHub](https://github.com/4oh4/pytesting/workflows/pytesting/badge.svg)](https://github.com/4OH4/pytesting/actions?query=workflow%3Apytesting)
 [![Coverage Status](https://coveralls.io/repos/github/4OH4/pytesting/badge.svg?branch=master)](https://coveralls.io/github/4OH4/pytesting?branch=master)
 
-# pytesting
+# Pytesting
 Unit testing, code coverage and mocking with `Pytest`, and property-based testing with `Hypothesis`.
 
 [https://github.com/4OH4/pytesting](https://github.com/4OH4/pytesting)
